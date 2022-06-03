@@ -18,8 +18,3 @@
         http://localhost:8000/cards         => Tarjetas
         http://localhost:8000/seller        => Vendedores
         http://localhost:8000/sells         => Ventas
-        
-        
-
-
-
