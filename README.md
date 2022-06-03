@@ -19,7 +19,7 @@
         http://localhost:8000/seller        => Vendedores
         http://localhost:8000/sells         => Ventas
 
- # Inserts para tablas
+ ## Inserts para tablas
  
     #vendedores
         
