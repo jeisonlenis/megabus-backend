@@ -4,13 +4,20 @@
 
     Ejecutar los comandos:
 
-                composer install
+        composer install
 
-                lngresar a Mysql y crear base de datos de nombre: megabusproject
+        lngresar a Mysql y crear base de datos de nombre: megabusproject
 
-                Ejecutar el comando: php artisan migrate:fresh
+        Ejecutar el comando: php artisan migrate:fresh
 
-                Correr el proyecto utilizando el comando: php artisan serve
+        Correr el proyecto utilizando el comando: php artisan serve
+       
+ ## Rutas para pruebas postman
+        
+        http://localhost:8000/busstations   => Estaciones
+        http://localhost:8000/cards         => Tarjetas
+        http://localhost:8000/seller        => Vendedores
+        http://localhost:8000/sells         => Ventas
         
         
 
