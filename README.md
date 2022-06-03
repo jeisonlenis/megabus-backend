@@ -4,13 +4,13 @@
 
     Ejecutar los comandos:
 
-        composer install
-        
-        lngresar a Mysql y crear base de datos de nombre: megabusproject
-        
-        Ejecutar el comando: php artisan migrate:fresh
-        
-        Correr el proyecto utilizando el comando: php artisan serve
+                composer install
+
+                lngresar a Mysql y crear base de datos de nombre: megabusproject
+
+                Ejecutar el comando: php artisan migrate:fresh
+
+                Correr el proyecto utilizando el comando: php artisan serve
         
         
 
