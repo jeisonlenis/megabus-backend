@@ -32,6 +32,7 @@
             INSERT INTO `busstations` (`id`, `nombre`, `ciudad`, `created_at`, `updated_at`) VALUES
             (35, 'El lago', 'pereira', '2022-06-02 20:17:31', '2022-06-02 20:17:35'),
             (36, 'Cielo Azul', 'Pereira', '2022-06-02 20:15:46', '2022-06-02 20:15:46');
+            
     #tarjetas
         
             INSERT INTO `cards` (`id`, `nombre`, `unidades`, `precio`, `valor_recaudos`, `created_at`, `updated_at`) VALUES
